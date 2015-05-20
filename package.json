@@ -1,0 +1,22 @@
+{
+  "name": "ckeditor-releases",
+  "version": "1.0.0",
+  "description": "Shim Repo with package.json",
+  "main": "ckeditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tm2/ckeditor-releases.git"
+  },
+  "keywords": [
+    "ckeditor"
+  ],
+  "author": "Chris McVittie",
+  "license": "MPL",
+  "bugs": {
+    "url": "https://github.com/tm2/ckeditor-releases/issues"
+  },
+  "homepage": "https://github.com/tm2/ckeditor-releases"
+}
